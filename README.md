@@ -33,4 +33,5 @@ This web application helps users test how fast and accurately they can type. As 
 1. **Demo Link**
 
 ```bash
+https://sonalisamadhiya.github.io/Typing-Speed-Web-Project/
 
